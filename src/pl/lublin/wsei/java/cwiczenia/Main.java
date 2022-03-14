@@ -1,5 +1,12 @@
 package pl.lublin.wsei.java.cwiczenia;
-/** @param */
+/**
+ *
+ * xyz
+ * xyz
+ * xyz
+ *
+ * @param
+ */
 
 public class Main {
 
@@ -16,5 +23,16 @@ public class Main {
 	 z
 	 2
 	 */
+
+        System.out.println("Hejka");
+
+
+
+
+
+
+
     }
+
+
 }
